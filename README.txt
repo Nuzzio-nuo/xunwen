@@ -182,8 +182,8 @@ npx expo start
 
 ## 联系方式
 
-- 项目地址：https://github.com/yourusername/xunwen-app
-- 邮箱：contact@xunwen.app
+- 项目地址：https://nuzzio-nuo.github.io/xunwen/
+- 邮箱：943223807@qq.com
 
 ---
 
